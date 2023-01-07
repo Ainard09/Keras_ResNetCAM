@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-1. Project motivation
-1. Requirements
-1. Usage
-1. Result
+1. [Project motivation](#project-motivation)
+1. [Requirements](#Requirements)
+1. [Usage](#usage)
+1. [Result](#result)
 
 ## Project motivation
 
@@ -34,8 +34,14 @@ Keras implementation of VGG-CAM has been explored [here](https://github.com/tdeb
 
 Examples of model,making object classification and localization
 
-<img src="images/bird.jpg" width="150px"> <img src="images/resnetcam_bird.png" width="300px"> | <img src="images/2dogs.jpg" width="150px"> <img src="images/resnetcam_2dogs.png" width="300px">
+<img src="images/bird.jpg" width="150px"> <img src="images/resnetcam_bird.png" width="300px">
 
-<img src="images/brittany.jpg" width="150px"> <img src="images/resnetcam_brittany.png" width="300px"> | <img src="images/dog.jpeg" width="130px"> <img src="images/resnet_cam_dog(poodle).png" width="300px">
+<img src="images/2dogs.jpg" width="150px"> <img src="images/resnetcam_2dogs.png" width="300px">
 
-<img src="images/humandog.jpg" width="150px"> <img src="images/resnetcam_humandog.png" width="300px"> | <img src="images/scooter.jpg" width="150px"> <img src="images/resnetcam_scooter.png" width="300px">
+<img src="images/brittany.jpg" width="150px"> <img src="images/resnetcam_brittany.png" width="300px">
+
+<img src="images/dog.jpeg" width="130px"> <img src="images/resnet_cam_dog(poodle).png" width="300px">
+
+<img src="images/humandog.jpg" width="150px"> <img src="images/resnetcam_humandog.png" width="300px">
+
+<img src="images/scooter.jpg" width="150px"> <img src="images/resnetcam_scooter.png" width="300px">
