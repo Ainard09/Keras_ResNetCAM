@@ -38,7 +38,7 @@ Examples of model,making object classification and localization
 
 <img src="images/2dogs.jpg" width="150px"> <img src="images/resnetcam_2dogs.png" width="300px">
 
-<img src="images/brittany.jpg" width="150px"> <img src="images/resnetcam_brittany.png" width="300px">
+<img src="images/Brittany.jpg" width="150px"> <img src="images/resnetcam_brittany.png" width="300px">
 
 <img src="images/dog.jpeg" width="130px"> <img src="images/resnet_cam_dog(poodle).png" width="300px">
 
